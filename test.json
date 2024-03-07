@@ -1,0 +1,215 @@
+{
+  "questions": [
+    {
+      "question": "The decimal expansion of 22/7 is",
+      "options": {
+        "(a)": "Terminating",
+        "(b)": "Non-terminating and repeating",
+        "(c)": "Non-terminating and Non-repeating",
+        "(d)": "None of the above"
+      },
+      "answer": "(b) Non-terminating and repeating",
+      "explanation": "22/7 = 3.14285714286.."
+    },
+    {
+      "question": "For some integer n, the odd integer is represented in the form of:",
+      "options": {
+        "(a)": "n",
+        "(b)": "n + 1",
+        "(c)": "2n + 1",
+        "(d)": "2n"
+      },
+      "answer": "(c) 2n + 1",
+      "explanation": "Since 2n represents the even numbers, hence 2n + 1 will always represent the odd numbers."
+    },
+    {
+      "question": "HCF of 26 and 91 is:",
+      "options": {
+        "(a)": "15",
+        "(b)": "13",
+        "(c)": "19",
+        "(d)": "11"
+      },
+      "answer": "(b) 13",
+      "explanation": "The prime factorisation of 26 and 91 is; 26 = 2 x 13, 91 = 7 x 13. Hence, HCF (26, 91) = 13"
+    },
+    {
+      "question": "Which of the following is not irrational?",
+      "options": {
+        "(a)": "(3 + √7)",
+        "(b)": "(3 – √7)",
+        "(c)": "(3 + √7) (3 – √7)",
+        "(d)": "3√7"
+      },
+      "answer": "(c) (3 + √7) (3 – √7)",
+      "explanation": "(3 + √7) (3 – √7) = 32 – (√7)2 = 9 – 7 = 2 [By a2 – b2 = (a – b) (a + b)]"
+    },
+    {
+      "question": "The addition of a rational number and an irrational number is equal to:",
+      "options": {
+        "(a)": "rational number",
+        "(b)": "Irrational number",
+        "(c)": "Both",
+        "(d)": "None of the above"
+      },
+      "answer": "(b) Irrational number",
+      "explanation": "The addition of a rational number and an irrational number is equal to an irrational number."
+    },
+    {
+      "question": "The multiplication of two irrational numbers is:",
+      "options": {
+        "(a)": "irrational number",
+        "(b)": "rational number",
+        "(c)": "Maybe rational or irrational",
+        "(d)": "None"
+      },
+      "answer": "(c) Maybe rational or irrational",
+      "explanation": "The multiplication of two irrational numbers may result in a rational or irrational number."
+    },
+    {
+      "question": "If set A = {1, 2, 3, 4, 5,…} is given, then it represents:",
+      "options": {
+        "(a)": "Whole numbers",
+        "(b)": "Rational Numbers",
+        "(c)": "Natural numbers",
+        "(d)": "Complex numbers"
+      },
+      "answer": "(c) Natural numbers",
+      "explanation": "If set A = {1, 2, 3, 4, 5,…} is given, then it represents natural numbers."
+    },
+    {
+      "question": "If p and q are integers and is represented in the form of p/q, then it is a:",
+      "options": {
+        "(a)": "Whole number",
+        "(b)": "Rational number",
+        "(c)": "Natural number",
+        "(d)": "Even number"
+      },
+      "answer": "(b) Rational number",
+      "explanation": "If p and q are integers and is represented in the form of p/q, then it is a rational number."
+    },
+    {
+      "question": "The largest number that divides 70 and 125, which leaves the remainders 5 and 8, is:",
+      "options": {
+        "(a)": "65",
+        "(b)": "15",
+        "(c)": "13",
+        "(d)": "25"
+      },
+      "answer": "(c) 13",
+      "explanation": "HCF (65, 117) = 13"
+    },
+    {
+      "question": "The least number that is divisible by all the numbers from 1 to 5 is:",
+      "options": {
+        "(a)": "70",
+        "(b)": "60",
+        "(c)": "80",
+        "(d)": "90"
+      },
+      "answer": "(b) 60",
+      "explanation": "LCM (1, 2, 3, 4, 5) = 60"
+    },
+    {
+      "question": "The sum or difference of two irrational numbers is always",
+      "options": {
+        "(a)": "rational",
+        "(b)": "irrational",
+        "(c)": "rational or irrational",
+        "(d)": "not determined"
+      },
+      "answer": "(b) irrational"
+    },
+    {
+      "question": "The decimal expansion of the rational number 23/(22 . 5) will terminate after",
+      "options": {
+        "(a)": "one decimal place",
+        "(b)": "two decimal places",
+        "(c)": "three decimal places",
+        "(d)": "more than 3 decimal places"
+      },
+      "answer": "(b) two decimal places",
+      "explanation": "23/(22 . 5) = 1.15"
+    },
+    {
+      "question": "Euclid’s division lemma states that for two positive integers a and b, there exist unique integers q and r such that a = bq + r, where r must satisfy",
+      "options": {
+        "(a)": "1 < r < b",
+        "(b)": "0 < r ≤ b",
+        "(c)": "0 ≤ r < b",
+        "(d)": "0 < r < b"
+      },
+      "answer": "(c) 0 ≤ r < b"
+    },
+    {
+      "question": "For some integer m, every even integer is of the form",
+      "options": {
+        "(a)": "m",
+        "(b)": "m + 1",
+        "(c)": "2m",
+        "(d)": "2m + 1"
+      },
+      "answer": "(c) 2m"
+    },
+    {
+      "question": "Using Euclid’s division algorithm, the HCF of 231 and 396 is",
+      "options": {
+        "(a)": "32",
+        "(b)": "21",
+        "(c)": "13",
+        "(d)": "33"
+      },
+      "answer": "(d) 33"
+    },
+    {
+      "question": "If the HCF of 65 and 117 is expressible in the form 65m – 117, then the value of m is",
+      "options": {
+        "(a)": "4",
+        "(b)": "2",
+        "(c)": "1",
+        "(d)": "3"
+      },
+      "answer": "(b) 2"
+    },
+    {
+      "question": "The prime factorisation of 96 is",
+      "options": {
+        "(a)": "25 × 3",
+        "(b)": "26",
+        "(c)": "24 × 3",
+        "(d)": "24 × 32"
+      },
+      "answer": "(a) 25 × 3"
+    },
+    {
+      "question": "n² – 1 is divisible by 8, if n is",
+      "options": {
+        "(a)": "an integer",
+        "(b)": "a natural number",
+        "(c)": "an odd integer",
+        "(d)": "an even integer"
+      },
+      "answer": "(c) an odd integer"
+    },
+    {
+      "question": "For any two positive integers a and b, HCF (a, b) × LCM (a, b) =",
+      "options": {
+        "(a)": "1",
+        "(b)": "(a × b)/2",
+        "(c)": "a/b",
+        "(d)": "a × b"
+      },
+      "answer": "(d) a × b"
+    },
+    {
+      "question": "The values of the remainder r, when a positive integer a is divided by 3 are",
+      "options": {
+        "(a)": "0, 1, 2",
+        "(b)": "Only 1",
+        "(c)": "Only 0 or 1",
+        "(d)": "1, 2"
+      },
+      "answer": "(a) 0, 1, 2"
+    }
+  ]
+}
